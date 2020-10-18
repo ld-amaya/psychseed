@@ -3,6 +3,9 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+a{
+    text-decoration: none;
+}
 .jumbotron{
     padding: 0;
     margin-bottom:0;
@@ -26,4 +29,12 @@ body {
 .content{
     font-size:22px;
     font-weight: 100;
+}
+li{
+    list-style: none;
+}
+.services{
+    background-color: #87c3d1;
+    color:#f8efd6;
+    padding:20px;
 }
