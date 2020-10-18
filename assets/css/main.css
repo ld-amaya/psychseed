@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+    padding: 0;
+    margin-bottom:0;
+}
+
+.banner{
+    width:100%;
+    background-repeat: no-repeat;
+}
+
+.about{
+    background-color: #ffc4b5;
+    color:#ff6949;
+    padding:10px;
+    margin-top: 0;
+    padding:20px;
+}
+#about_us_button{
+    margin-top:70px;
+}
+.content{
+    font-size:22px;
+    font-weight: 100;
+}
