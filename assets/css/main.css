@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     font-family: 'Roboto', sans-serif;
 }
 
@@ -37,4 +36,7 @@ li{
     background-color: #87c3d1;
     color:#f8efd6;
     padding:20px;
+}
+.contact{
+    padding: 20px;
 }
