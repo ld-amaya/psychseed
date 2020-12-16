@@ -19,7 +19,7 @@ a{
     background-color: #ffc4b5;
     color:#ff6949;
     padding:10px;
-    margin-top: 0;
+    margin-top: -10px;
     padding:20px;
 }
 #about_us_button{
@@ -32,10 +32,11 @@ a{
 li{
     list-style: none;
 }
-.services{
+.services, .org_dev{
     background-color: #87c3d1;
     color:#f8efd6;
-    padding:20px;
+    padding: 5px;
+    border:0;
 }
 .contact{
     padding: 20px;
